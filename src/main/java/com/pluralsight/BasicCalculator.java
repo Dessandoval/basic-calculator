@@ -13,8 +13,7 @@ public class BasicCalculator {
         System.out.print("Enter number 2: ");
         int secondNumber = inputScanner.nextInt();
 
-        // asking which calculations they want to use
-        // possible calculations:
+        // asking which calculations they want to use : possible calculations:
         // (A)dd
         // (S)ubtract
         // (M)ultiply
