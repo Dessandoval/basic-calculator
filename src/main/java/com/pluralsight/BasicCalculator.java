@@ -12,6 +12,13 @@ public class BasicCalculator {
         System.out.println("Enter number 2: ");
         int secondNumber = inputScanner.nextInt();
         // asking which calculations they want to use
+        // possible calculations:
+        // (A)dd
+        // (S)ubtract
+        // (M)ultiply
+        // (D)ivide
+        //Please select an option: M
+        System.out.println("");
 
 
 
