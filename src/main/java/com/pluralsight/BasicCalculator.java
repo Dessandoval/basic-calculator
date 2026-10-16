@@ -25,8 +25,9 @@ public class BasicCalculator {
         System.out.println("(S)ubtract");
         System.out.println("(M)ultiply");
         System.out.println("(D)ivide");
+        int total = firstNumber * secondNumber;
 
-        System.out.println(firstNumber * secondNumber);
+        System.out.println(firstNumber + " * " + secondNumber + " = " + total);
 
 
 
