@@ -28,6 +28,7 @@ public class BasicCalculator {
 
         //please select a option
         System.out.println("please select an option");
+
         int total = firstNumber * secondNumber;
 
         System.out.println(firstNumber + " * " + secondNumber + " = " + total);
