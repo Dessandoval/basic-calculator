@@ -8,6 +8,7 @@ public class BasicCalculator {
 
     System.out.print("Enter number 1: ");
         int firstNumber = inputScanner.nextInt();
+
         // asking for second number input
         System.out.print("Enter number 2: ");
         int secondNumber = inputScanner.nextInt();
@@ -24,6 +25,8 @@ public class BasicCalculator {
         System.out.println("(S)ubtract");
         System.out.println("(M)ultiply");
         System.out.println("(D)ivide");
+
+        System.out.println(firstNumber * secondNumber);
 
 
 
