@@ -25,6 +25,9 @@ public class BasicCalculator {
         System.out.println("(S)ubtract");
         System.out.println("(M)ultiply");
         System.out.println("(D)ivide");
+
+        //please select a option
+        System.out.println("please select an option");
         int total = firstNumber * secondNumber;
 
         System.out.println(firstNumber + " * " + secondNumber + " = " + total);
